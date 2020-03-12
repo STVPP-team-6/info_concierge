@@ -1,0 +1,202 @@
+ 
+Vision and Scope Document
+for
+Інформаційний консьєрж
+Version 1.0 approved
+Prepared by <author>
+<organization>
+<date created>
+
+
+Table of Contents
+
+Table of Contents	ii
+Revision History	ii
+1.	Business Requirements	1
+1.1.	Background	1
+1.2.	Business Opportunity	1
+1.3.	Business Objectives and Success Criteria	1
+1.4.	Customer or Market Needs	1
+1.5.	Business Risks	1
+2.	Vision of the Solution	2
+2.1.	Vision Statement	2
+2.2.	Major Features	2
+2.3.	Assumptions and Dependencies	2
+3.	Scope and Limitations	2
+3.1.	Scope of Initial Release	2
+3.2.	Scope of Subsequent Releases	2
+3.3.	Limitations and Exclusions	3
+4.	Business Context	3
+4.1.	Stakeholder Profiles	3
+4.2.	Project Priorities	4
+4.3.	Operating Environment	4
+
+
+
+
+Revision History
+
+
+Name
+Date
+Reason For Changes
+Version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Requirements
+Наша мета навести порядок всередині ОСББ та Управлінських компаній у бік обслуговування клієнтів (власників житла) у всіх організаційних аспектах. Задля досягнення цієї мети наша команда готова прикласти максимально зусиль для реалізації основних завдань проекту, серед яких:
+
+1. Створення та підтримка хмарної онлайн-системи.
+2. Налагодження комунікації з керівниками ОСББ та Управлінських компаній в Україні.
+3. Популяризації відповідальності за власне відношення до ОСББ серед мешканців житлового фонду.
+Background
+“Інформаційний консьєрж” – це наведення порядку всередині багатоквартирних будинків у бік обслуговування клієнтів (власників житла) у всіх організаційних аспектах. Онлайн-система дозволить скоротити час на збір та обробку інформації, а також запобігти можливості її втрати, забезпечить своєчасність інформування і збільшить частку власників житла, які впливають на процес вибору.
+Business Opportunity
+МОЖЛИВІСТЬ ДЛЯ МЕШКАНЦІВ - переглядати актуальну інформацію про діяльність організації в тому числі завантажувати кошторис та бути вкурсі реальних нарахувань та витрат організації, отримувати квитанції не виходячи з дому, залишати скарги та пропозиції щодо роботи організації та інші функції. Власник помешкання приєднується до чат-бота в Telegram або Viber. Мешканець використовує вбудоване меню для комунікації з веб-сервісом.
+
+МОЖЛИВІСТЬ ДЛЯ УПРАВИТЕЛІВ - вести облік будівель і споруд, що знаходяться на балансі, створювати реєстр мешканців та помешкань з подальшим використанням їхніх функцій як наприклад автоматичне створення необхідної довідки, контролювати фінансові звіти у процесі роботи організації, поширювати серед мешканців новини та створювати голосування та інші функції. Голова чи бухгалтер організацій входить у веб-сервіс з зручного для використання пристрою як наприклад телефон чи комп’ютер. Використовує веб-сервіс онлайн в будь який час. Віддалений правовий супрувід юристими нашої команди.
+Business Objectives and Success Criteria
+Якісні результати:
+1. Нагалодження комунікації між управителями та мешканцями багатоквартирного будинку.
+2. Збільшення соціальної свідомості (відповідальності) серед мешканців багатоквартирного будинку.
+3. Підвищення рівня комп’ютерної грамотності серед управителів багатоквартирних будинків.
+4. Автоматизація документообігу та оптимізація внутрішніх процесів багатоквартирного будинку.
+5. Збільшення екологічності багатоквартирного будинку за рахунок зменшення використання канцтоварів.
+6. Зменшення ризику втрати чи викрадення інформаційної бази багатоквартирного будинку.
+
+Кількість результати:
+1. Щонайменше 3000 підписаних угод з управителями багатоквартирних будинків.
+2. Щонайменше 60% наших слухачів будуть використовувати знання отримані на заходах у практиці (інформаційні заходи ми плануємо організовувати регулярно на цікаві теми для голів ОСББ з якими ми будемо співпрацювати).
+3. Щонайменше 40% мешканців багатоквартирних будинків будуть постійними користувачами онлайн-системи.
+4. Щонайменше зменшення витрат багатоквартирного будинку на 5%.
+Customer or Market Needs
+Інституційна неврегульованість, невпорядкованість створення та певний управлінсько-організаційний вакуум породжують низку проблем інформаційного забезпечення нових організаційних форм обслуговування житлового
+фонду — ОСББ та керуючих компаній та зумовлюють труднощі у веденні обліку в ОСББ. Для їх подолання необхідним є формування комплексного інформаційного забезпечення управління діяльністю ОСББ на принципах системності, транспарентності, автентичності, кореляційності, ситуативності, інноваційності.
+Business Risks
+
+Vision of the Solution
+Ми віримо, що ефективне функціонування організацій, що обслуговують житловий фонд великою мірою залежить від рівня зовнішнього та внутрішньоорганізаційного управління ними. Однією із функцій управління, яка покликана сприяти розвитку організації є – контроль.
+
+Проте переважна більшість мешканців багатоповерхівок не задумуються, що створення ОСББ – це, в першу чергу, відповідальність за власні дії, власне відношення до всього житлового комплексу і активна власна участь у обслуговуванні, утриманні та фінансуванні будинку.
+
+Переконані, що для оптимізації роботи бухгалтерської служби ОСББ, управлінської компанії слід використовувати автоматизовану онлайн-систему ведення обліку, складання звітності та проведення контролю. Використання такого сервісу декількома ОСББ дозволить створити єдиний інформаційний ресурс житлово-комунального господарства міста.
+Vision Statement
+<Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of the developing organization. It may be somewhat idealistic, but it should be grounded in the realities of existing or anticipated customer markets, enterprise architectures, organizational strategic directions, and cost and resource limitations.>
+Major Features
+<Include a numbered list of the major features of the new product, emphasizing those features  that distinguish it from previous or competing products. Specific user requirements and functional requirements may be traced back to these features.>
+Assumptions and Dependencies
+<Record any assumptions that were made when conceiving the project and writing this vision and scope document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.>
+Scope and Limitations
+<The project scope defines the concept and range of the proposed solution. It’s also important to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).>
+Scope of Initial Release
+<Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community.>
+Scope of Subsequent Releases
+<If a staged evolution of the product is envisioned over time, indicate which major features will be deferred to later releases.>
+Limitations and Exclusions
+<Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.>
+Business Context
+<This section summarizes some of the business issues around the project, including profiles of major customer categories, assumptions that went into the project concept, and the management priorities for the project.>
+Stakeholder Profiles
+<Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later that cannot be accommodated because of schedule or scope constraints. For each stakeholder category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:
+
+improved productivity
+reduced rework
+cost savings
+streamlined business processes
+automation of previously manual tasks
+ability to perform entirely new tasks or functions
+conformance to current standards or regulations
+improved usability or reduced frustration level compared to current applications
+
+Example:>
+
+
+Stakeholder
+Major Value
+
+Attitudes
+
+Major Interests
+
+Constraints
+executives
+increased revenue
+see product as avenue to 25% increase in market share
+richer feature set than competitors; time to market
+maximum budget = $1.4M
+editors
+fewer errors in work
+highly receptive, but expect high usability
+automatic error correction; ease of use; high reliability
+must run on low-end workstations
+legal aides
+quick access to data
+resistant unless product is keystroke-compatible with current system
+ability to handle much larger database than current system; easy to learn
+no budget for retraining
+
+Project Priorities
+
+Dimension
+Driver
+(state objective)
+Constraint
+(state limits)
+Degree of Freedom
+(state allowable range)
+Schedule
+release 1.0 to be available by 20/3/20, release 1.1 by 20/4/20
+
+
+
+
+Features
+
+
+
+
+70-80% of high priority features must be included in release 1.0
+Quality
+
+
+
+
+90-95% of user acceptance tests must pass for release 1.0, 95-98% for release 1.1
+Staff
+
+
+maximum team size is 2 developers + 1 testers
+
+
+Cost
+
+
+
+
+budget overrun up to 15% acceptable without executive review
+
+Operating Environment
+Технологія: 	ASP.NET Core (version 2.2.103, архітектура MVC), а також MS-SQL server, Azure Storage File & Table, інші front-end plugins.
+	Чому? 		Ми очікуємо, що платформа буде обробляти 10 запитів середньостатистичного активного мешканця протягом тижня (будь які дії через чат-бота) та щонайменше 100 запитів від представників організації. Розробляючи архітектуру платформи ми взяли курс, що  повинен забезпечити зберігання великої кількість даних, оптимальної швидкості пошуку необхідної інформації та надати безперебійний обробник запитів. 
+	Найбільш стрімко розвичаюча технологія від компанії Microsoft це ASP.NET, а приставка Core це розгалужена версія ASP.NET із розширеним функціоналом. Використовується для створення enterprise рішень з великим навантаженням на систему (серверна частина)
+ 
+Окрім надійної серверної частини, ми вибрали на наш погляд швидку та надійну СКБД (система керування базами даних), а саме MS-SQL server. Це продукт від компанії Microsoft випробуваний роками, що забезпечує реляційний підхід до зберігання даних (таблиця з колонок та рядків, що її наповнюють).  Слід зауважити, що більш кращих результатів із таблиці можна досягти лише при правильному налаштуванні зв’язків між таблицями, індексів (використовуються для оптимізації при пошуку) та нормалізації даних, а також використовуючи нові оновлення СКБД. 
+
+Останній компонент платформи це хмарне сховище Azure, а конкретно сервіси Storage File та Storage Table. Вони дозволяють зберігати дані у так званих *розподілених* контейнерах, вирізняються своєю масштабністю та економічністю, зокрема дозволяються зберігати сотні гігабайт інформації за невелику ціну. Storage Table зберігає дані у підході схожому на підхід не реляційних баз даних, а Storage File дозволяє зберігати файли. Дані зберігаються окремо на сервері Azure та є незалежними від впливу (коректності  роботи) зі сторони основного сервера.
+
